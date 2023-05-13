@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Release-6d80f4066926a7415cb3.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "BullsAndCows",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "BullsAndCows::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-BullsAndCows-Release-af65049b6b99806c73a3.json",
+					"name" : "BullsAndCows",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "BullsAndCows_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-BullsAndCows_autogen-Release-617b61eb173ba7fa84b2.json",
+					"name" : "BullsAndCows_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "BullsAndCows_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-BullsAndCows_autogen_timestamp_deps-Release-cd1eae5e8c2a8844d406.json",
+					"name" : "BullsAndCows_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "F:/Qt_projs/build-BullsAndCows-Desktop_Qt_6_5_0_MinGW_64_bit-Release",
+		"source" : "F:/Qt_projs/BullsAndCows"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
